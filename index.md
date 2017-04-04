@@ -81,9 +81,32 @@ All the profiles will be accesible through a profiles list:
 
 # Installation
 
+First, install [Meteor](https://www.meteor.com/install).
+
+Second, download a copy of The Manoa Flea Market, or clone it using git.
+(As of right now, the application is still under construction)
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
 # Application Design
 
 # Development History
+
+The development process for the Manoa Flea market follows the ideas given in [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-screencast-idpm.html). In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
+
+The following sections document the development history of the Manoa Flea Market.
 
 ## Milestone 1
 
