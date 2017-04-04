@@ -108,6 +108,10 @@ The following sections document the development history of the Manoa Flea Market
 - Authentication (Mary)
 - Links in Homepages work (Raena)
 - Top Menu (Mary)
+- List Items Page
+- items List Page
+- Profile Template Page
+- Profiles List page
 
 ## Milestone 2
 
