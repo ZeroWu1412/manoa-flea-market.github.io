@@ -102,16 +102,16 @@ The following sections document the development history of the Manoa Flea Market
 
 ## Milestone 1
 
-- Set up the Meteor Application (Raena)
-- Primary Template (Eric) 
-- Landing Page (Eric)
-- Authentication (Mary)
-- Links in Homepages work (Raena)
-- Top Menu (Mary)
-- List Items Page
-- items List Page
-- Profile Template Page
-- Profiles List page
+1. Set up the Meteor Application (Raena) (Done)
+2. Primary Template (Eric) 
+3. Landing Page (Eric)
+4. Authentication (Mary)
+5. Links in Homepages work (Raena)
+6. Top Menu (Mary)
+7. List Items Page
+8. items List Page
+9. Profile Template Page (Raena)
+10. Profiles List page
 
 ## Milestone 2
 
