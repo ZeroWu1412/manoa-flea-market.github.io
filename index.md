@@ -17,17 +17,13 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 - Items and services offered on this site will be geared specifically towards UHM students
 - Users who violate the terms of use can be locked out of the system through their UH credentials
 
-When you first come to our site, you will be on our landing page which will be similar to the following:
+When you first come to our site, you will be on our landing page which will be a combination of the two pages:
 
 ![](images/landing.png)
-
-![](images/landing2.png)
 
 ![](images/landing3.png)
 
 In order to use the system, you must be logged in. Once you click to log in, you will be directed into the log in page:
-
-![](images/login.png)
 
 ![](images/login2.png)
 
@@ -57,11 +53,7 @@ Once you have finished listing the item, the item will displayed on it's own sep
 
 All the items for sale from the users will then be available on a communal sell page:
 
-![](images/market.png)
-
 ![](images/market2.png)
-
-![](images/market3.png)
 
 Users will also have profiles that can be viewed by other users:
 
