@@ -2,11 +2,8 @@
 
 * [About Manoa Flea Market](#about-manoa-flea-market)
 * [Installation](#installation)
-<! --- * [Application design](#application-design) --- >
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
-<! ---  * [Milestone 2](#milestone-2) --- >
-<! ---  * [Milestone 3](#milestone-3) --- >
 
 # About Manoa Flea Market
 
@@ -92,8 +89,6 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-<! --- # Application Design --- >
-
 # Development History
 
 The development process for the Manoa Flea market follows the ideas given in [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-screencast-idpm.html). In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
@@ -109,7 +104,3 @@ The goal of Milestone 1 is to combine all of the groups idea develeoped during o
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
-
-<! --- ## Milestone 2 --- >
-
-<! --- ## Milestone 3 --- >
