@@ -2,11 +2,11 @@
 
 * [About Manoa Flea Market](#about-manoa-flea-market)
 * [Installation](#installation)
-* [Application design](#application-design)
+<! --- * [Application design](#application-design) --- >
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
-  * [Milestone 2](#milestone-2)
-  * [Milestone 3](#milestone-3)
+<! ---  * [Milestone 2](#milestone-2) --- >
+<! ---  * [Milestone 3](#milestone-3) --- >
 
 # About Manoa Flea Market
 
@@ -92,7 +92,7 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-# Application Design
+<! --- # Application Design --- >
 
 # Development History
 
@@ -110,6 +110,6 @@ Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://gi
 
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
-## Milestone 2
+<! --- ## Milestone 2 --- >
 
-## Milestone 3
+<! --- ## Milestone 3 --- >
