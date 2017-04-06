@@ -28,17 +28,13 @@ Once logged in, users will be directed to the User Home Page:
 
 ![](images/user-page.png)
 
-However, users who have admin privileges will be direed to the Admin Home Page:
+However, users who have admin privileges will be directed to the Admin Home Page:
 
 ![](images/admin-page.png)
 
 From either Home Page, you can list an item to sell, making sure you give a description and a photo:
 
-![](images/add-item.png)
-
 ![](images/add-item2.png)
-
-![](images/add-item3.png)
 
 If need be, you may also choose to edit your listing: 
 
@@ -52,7 +48,7 @@ All the items for sale from the users will then be available on a communal sell 
 
 ![](images/market2.png)
 
-Users will also have profiles that can be viewed by other users:
+Users will also have profiles that can be viewed by other users that will list all items that the user is currently selling:
 
 ![](images/profile.png)
 
@@ -62,9 +58,7 @@ These profiles can be created or edited through the use of these pages:
 
 ![](images/edit-profile.png)
 
-![](images/edit-profile2.png)
-
-All the profiles will be accesible through a profiles list: 
+All the profiles will be accessible through a profiles list: 
 
 ![](images/profile-list.png)
 
@@ -99,7 +93,7 @@ The following sections document the development history of the Manoa Flea Market
 
 Milestone 1 started on April 4, 2017 and is currently in progress. 
 
-The goal of Milestone 1 is to combine all of the groups idea develeoped during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work. 
+The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work. 
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
