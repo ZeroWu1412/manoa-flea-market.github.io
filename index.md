@@ -4,6 +4,7 @@
 * [Installation](#installation)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
 
 # About Manoa Flea Market
 
@@ -97,12 +98,31 @@ The following sections document the development history of the Manoa Flea Market
 
 ## Milestone 1
 
-Milestone 1 started on April 4, 2017 and is currently in progress. 
+Milestone 1 started on April 4, 2017 and continued until April 12, 2017. 
 
-The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work. 
+The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work.
+
+So far, we created six mockup pages and created the landing and home page. We also set up the authentication so that only UH students may login.
+
+Here were the mockup pages that were created and the authentication page:
+
+<img width="200px" src="images/Screenshot (27).png"/>
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
+![](images/M1.png)
+
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
-![](images/M1.png)
+
+Milestone 1 has been deployed through galaxy [Manoa Flea Market Milestone 1 Galaxy](https://galaxy.meteor.com/app/manoa-flea-market.meteorapp.com)::
+
+## Milestone 2
+
+Milestone 2 started on April 13, 2017 and is currently in progress.
+
+Now that we have an idea of the pages we want, we need to check to make sure everything works in the way that we want.  Thus, we will be need to implement the data model.
+
+Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
+
+Milestone 2 currently has 3 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
