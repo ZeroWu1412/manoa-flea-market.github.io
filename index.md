@@ -123,7 +123,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/Screenshot (41).png)
 
-Milestone 1 has been deployed through galaxy [Manoa Flea Market Milestone 1 Galaxy](https://galaxy.meteor.com/app/manoa-flea-market.meteorapp.com)::
+Milestone 1 has been deployed through galaxy [Manoa Flea Market Milestone 1 Galaxy](https://manoa-flea-market.meteorapp.com)::
 
 ## Milestone 2
 
