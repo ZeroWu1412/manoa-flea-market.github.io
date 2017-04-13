@@ -20,13 +20,19 @@ When you first come to our site, you will be on our landing page which will be a
 
 ![](images/landing3.png)
 
-In order to use the system, you must be logged in. Once you click to log in, you will be directed into the log in page:
+In order to use the system, you must be logged in. Once you click to log in, you will be directed to login with your UH username and password:
 
-![](images/login2.png)
+![](images/Screenshot (26).png)
+
+![](images/Screenshot (27).png)
 
 Once logged in, users will be directed to the User Home Page: 
 
 ![](images/user-page.png)
+
+Users will also be able to navigate through the top menu:
+
+![](images/Screenshot (28).png)
 
 However, users who have admin privileges will be directed to the Admin Home Page:
 
