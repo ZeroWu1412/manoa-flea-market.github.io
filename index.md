@@ -17,9 +17,7 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 
 When you first come to our site, you will be on our landing page which will be a combination of the two pages:
 
-![](images/landing.png)
-
-![](images/landing3.png)
+![](images/Screenshot (34).png)
 
 In order to use the system, you must be logged in. Once you click to log in, you will be directed to login with your UH username and password:
 
@@ -41,33 +39,27 @@ However, users who have admin privileges will be directed to the Admin Home Page
 
 From either Home Page, you can list an item to sell, making sure you give a description and a photo:
 
-![](images/add-item2.png)
+![](images/Screenshot (36).png)
 
 If need be, you may also choose to edit your listing: 
 
-![](images/edit-listing.png)
-
-Once you have finished listing the item, the item will displayed on it's own separate page: 
-
-![](images/listing.png)
+![](images/Screenshot (37).png)
 
 All the items for sale from the users will then be available on a communal sell page:
 
-![](images/market2.png)
+![](images/Screenshot (35).png)
 
 Users will also have profiles that can be viewed by other users that will list all items that the user is currently selling:
 
-![](images/profile.png)
+![](images/Screenshot (38).png)
 
 These profiles can be created or edited through the use of these pages: 
 
-![](images/add-profile.png)
-
-![](images/edit-profile.png)
+![](images/Screenshot (39).png)
 
 All the profiles will be accessible through a profiles list: 
 
-![](images/profile-list.png)
+![](images/Screenshot (39).png)
 
 # Installation
 
@@ -106,14 +98,26 @@ So far, we created six mockup pages and created the landing and home page. We al
 
 Here were the mockup pages that were created and the authentication page:
 
+<img width="200px" src="images/Screenshot (34).png"/>
+<img width="200px" src="images/Screenshot (35).png"/>
+<img width="200px" src="images/Screenshot (36).png"/>
+<img width="200px" src="images/Screenshot (37).png"/>
+<img width="200px" src="images/Screenshot (38).png"/>
+<img width="200px" src="images/Screenshot (39).png"/>
+<img width="200px" src="images/Screenshot (40).png"/>
 <img width="200px" src="images/Screenshot (27).png"/>
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
-![](images/M1.png)
+![](images/Screenshot (30).png)
 
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
+![](images/Screenshot (31).png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/Screenshot (41).png)
 
 Milestone 1 has been deployed through galaxy [Manoa Flea Market Milestone 1 Galaxy](https://galaxy.meteor.com/app/manoa-flea-market.meteorapp.com)::
 
@@ -125,4 +129,8 @@ Now that we have an idea of the pages we want, we need to check to make sure eve
 
 Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
-Milestone 2 currently has 3 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
+![](images/Screenshot (33).png)
+
+Milestone 2 currently has 3 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
+
+![](images/Screenshot (32).png)
