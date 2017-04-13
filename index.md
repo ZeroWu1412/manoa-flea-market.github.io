@@ -109,13 +109,11 @@ Here were the mockup pages that were created and the authentication page:
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
 
-<<<<<<< HEAD
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
-=======
+
 ![](images/Screenshot (30).png)
 
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
->>>>>>> origin/master
 
 ![](images/Screenshot (31).png)
 
