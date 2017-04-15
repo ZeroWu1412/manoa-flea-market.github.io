@@ -104,8 +104,8 @@ Mockups for the following pages were implemented during M1:
 <img width="200px" src="images/AdminHomePage.png"/>
 <img width="200px" src="images/AddListing.png"/>
 <img width="200px" src="images/EditListing.png"/>
-<img width="200px" src="images/Market.png"/>
-<img width="200px" src="images/Profile.png"/>
+<img width="200px" src="images/market.png"/>
+<img width="200px" src="images/profile.png"/>
 <img width="200px" src="images/EditProfile.png"/>
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
@@ -113,13 +113,12 @@ Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://gi
 ![](images/Milestone1.png)
 
 Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
-=======
+
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
 
 ![](images/Screenshot (30).png)
 
 Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
->>>>>>> origin/master
 
 ![](images/Milestone1b.png)
 
