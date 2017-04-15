@@ -96,17 +96,17 @@ The goal of Milestone 1 is to combine all of the groups idea developed during ou
 
 Mockups for the following pages were implemented during M1:
 
-<img width="200px" src="images/LandingPage.png"/>
-<img width="200px" src="images/LoginPage.png"/>
-<img width="200px" src="images/LoginPage2.png"/>
-<img width="200px" src="images/UserHomePage.png"/>
-<img width="200px" src="images/TopMenu.png"/>
-<img width="200px" src="images/AdminHomePage.png"/>
-<img width="200px" src="images/AddListing.png"/>
-<img width="200px" src="images/EditListing.png"/>
-<img width="200px" src="images/market.png"/>
-<img width="200px" src="images/profile.png"/>
-<img width="200px" src="images/EditProfile.png"/>
+<img width="200px" height="140px" src="images/LandingPage.png"/>
+<img width="200px" height="140px" src="images/LoginPage.png"/>
+<img width="200px" height="140px" src="images/LoginPage2.png"/>
+<img width="200px" height="140px" src="images/UserHomePage.png"/>
+<img width="200px" height="140px" src="images/TopMenu.png"/>
+<img width="200px" height="140px" src="images/AdminHomePage.png"/>
+<img width="200px" height="140px" src="images/AddListing.png"/>
+<img width="200px" height="140px" src="images/EditListing.png"/>
+<img width="200px" height="140px" src="images/market.png"/>
+<img width="200px" height="140px" src="images/profile.png"/>
+<img width="200px" height="140px" src="images/EditProfile.png"/>
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
 
