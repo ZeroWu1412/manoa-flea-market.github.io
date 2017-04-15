@@ -113,6 +113,13 @@ Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://gi
 ![](images/Milestone1.png)
 
 Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
+=======
+Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
+
+![](images/Screenshot (30).png)
+
+Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
+>>>>>>> origin/master
 
 ![](images/Milestone1b.png)
 
@@ -120,7 +127,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/Milestone1c.png)
 
-Milestone 1 has been deployed through galaxy [Manoa Flea Market Milestone 1 Galaxy](https://galaxy.meteor.com/app/manoa-flea-market.meteorapp.com)::
+Milestone 1 has been deployed through galaxy [Manoa Flea Market Demo](https://manoa-flea-market.meteorapp.com)::
 
 ## Milestone 2
 
