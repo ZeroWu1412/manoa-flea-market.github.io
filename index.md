@@ -47,11 +47,11 @@ If need be, you may also choose to edit your listing:
 
 All the items for sale from the users will then be available on a communal sell page:
 
-![](images/Market.png)
+![](images/market.png)
 
 Users will also have profiles that can be viewed by other users that will list all items that the user is currently selling:
 
-![](images/Profile.png)
+![](images/profile.png)
 
 These profiles can be created or edited through the use of these pages: 
 
