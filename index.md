@@ -88,7 +88,7 @@ The development process for the Manoa Flea market follows the ideas given in [Is
 
 The following sections document the development history of the Manoa Flea Market.
 
-## Milestone 1
+## Milestone 1: Mockup Development
 
 Milestone 1 started on April 4, 2017 and completed April 12, 2017. 
 
@@ -114,12 +114,6 @@ Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://gi
 
 Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
 
-Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
-
-![](images/Screenshot (30).png)
-
-Milestone 1 currently has 10 issues and progress will be managed through [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
-
 ![](images/Milestone1b.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
@@ -128,11 +122,11 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Milestone 1 has been deployed through galaxy [Manoa Flea Market Demo](https://manoa-flea-market.meteorapp.com)::
 
-## Milestone 2
+## Milestone 2: Data Model Development
 
 Milestone 2 started on April 13, 2017 and is currently in progress.
 
-Now that the mockup pages have been completed, the next step is to start working on our applications functionality.  Thus, the goal of milestone 2 is to implement the data model.
+The goal of Milestone 2 is to start working on our applications functionality by implementing the data model.
 
 Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
