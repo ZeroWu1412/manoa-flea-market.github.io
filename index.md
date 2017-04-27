@@ -2,7 +2,7 @@
 
 * [About Manoa Flea Market](#about-manoa-flea-market)
 * [User Guide](#user-guide)
-* [Installation](#installation)
+* [Developer Guide](#developer-guide)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
@@ -64,7 +64,7 @@ All the profiles will be accessible through a profiles list:
 
 
 
-# Installation
+# Developer Guide
 
 First, install [Meteor](https://www.meteor.com/install).
 
