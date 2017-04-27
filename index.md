@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About Manoa Flea Market](#about-manoa-flea-market)
+* [User Guide](#user-guide)
 * [Installation](#installation)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
@@ -14,6 +15,8 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 - Connect buyers and sellers through UH credentials
 - Items and services offered on this site will be geared specifically towards UHM students
 - Users who violate the terms of use can be locked out of the system through their UH credentials
+
+# User Guide
 
 When you first come to our site, you will be on our landing page:
 
