@@ -7,7 +7,6 @@
   * [Directory structure](#directory-structure)
   * [Import conventions](#import-conventions)
   * [Naming conventions](#naming-conventions)
-  * [Data model](#data-model)
   * [CSS](#css)
   * [Routing](#routing)
   * [Authentication](#authentication)
@@ -110,42 +109,6 @@ config/     # holds configuration files, such as settings.development.json
 .gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
 ```
 
-This structure separates configuration files (such as the settings files) in the config/ directory from the actual Meteor application in the app/ directory.
-
-The app/ directory has this top-level structure:
-
-```
-client/
-  lib/           # holds Semantic UI files.
-  head.html      # the <head>
-  main.js        # import all the client-side html and js files. 
-
-imports/
-  api/           # Define collection processing code (client + server side)
-    base/
-    interest/
-    profile/
-  startup/       # Define code to run when system starts up (client-only, server-only)
-    client/        
-    server/        
-  ui/
-    components/  # templates that appear inside a page template.
-    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
-    pages/       # Pages are navigated to by FlowRouter routes.
-    stylesheets/ # CSS customizations, if any.
-
-node_modules/    # managed by Meteor
-
-private/
-  database/      # holds the JSON file used to initialize the database on startup.
-
-public/          
-  images/        # holds static images for landing page and predefined sample users.
-  
-server/
-   main.js       # import all the server-side js files.
-```
-
 ## Import conventions
 
 This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
@@ -156,22 +119,10 @@ Then, client/main.js and server/main.js are responsible for importing all the di
 
 ```
 import '/imports/startup/client';
-import '/imports/ui/components/form-controls';
-import '/imports/ui/components/directory';
-import '/imports/ui/components/user';
-import '/imports/ui/components/landing';
-import '/imports/ui/layouts/directory';
-import '/imports/ui/layouts/landing';
-import '/imports/ui/layouts/shared';
-import '/imports/ui/layouts/user';
-import '/imports/ui/pages/directory';
-import '/imports/ui/pages/filter';
-import '/imports/ui/pages/landing';
-import '/imports/ui/pages/user';
-import '/imports/api/base';
-import '/imports/api/profile';
-import '/imports/api/interest';
+import '/imports/ui/layouts';
+import '/imports/ui/pages';
 import '/imports/ui/stylesheets/style.css';
+import '/imports/ui/components/form-controls/';
 ```
 
 Apart from the last line that imports style.css directly, the other lines all invoke the index.js file in the specified directory.
@@ -189,36 +140,11 @@ This system adopts the following naming conventions:
   * Templates representing pages are capitalized, with words separated by underscores. Example: Contact_Page. The files for this template are lower case, with hyphens rather than underscore. Example: contact-page.html, contact-page.js.
   * Routes to pages are named the same as their corresponding page. Example: Contact_Page.
 
-
-## Data model
-
-The BowFolios data model is implemented by two Javascript classes: [ProfileCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.js) and [InterestCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Profiles and Interests)that provides access to that collection. 
-
-Any part of the system that manipulates the BowFolios data model imports the Profiles or Interests variable, and invokes methods of that class to get or set data.
-
-There are many common operations on MongoDB collections. To simplify the implementation, the ProfileCollection and InterestCollection classes inherit from the [BaseCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/base/BaseCollection.js) class.
-
-The [BaseUtilities](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/base/BaseUtilities.js) file contains functions that operate across both classes. 
-
-Both ProfileCollection and InterestCollection have Mocha unit tests in [ProfileCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.test.js) and [InterestCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.test.js).
-
-You can run these tests using the following command:
-
-```
-meteor npm run test-watch
-```
-
-You can see the output by retrieving http://localhost:3100 in your browser. Here is an example run:
-
-![](images/m2-mocha-tests.png)
-
 ## CSS
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
 
-The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory). 
-
-Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the [router](https://github.com/bowfolios/bowfolios/blob/master/app/imports/startup/client/router.js) uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user. 
+The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory).
 
 ## Routing
 
