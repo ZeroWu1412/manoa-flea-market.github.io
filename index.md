@@ -32,11 +32,9 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 
 When you first come to our site, you will be on our landing page:
 
-![](images/LandingPage.png)
+![](images/Screenshot (52).png)
 
 In order to use the system, you must be logged in. Once you click to log in, you will be directed to login with your UH username and password:
-
-![](images/LoginPage.png)
 
 ![](images/LoginPage2.png)
 
@@ -70,11 +68,13 @@ Users will also have profiles that can be viewed by other users that will list a
 
 These profiles can be created or edited through the use of these pages: 
 
-![](images/EditProfile.png)
+![](images/Screenshot (60).png)
+
+![](images/Screenshot (59).png)
 
 All the profiles will be accessible through a profiles list: 
 
-
+![](images/Screenshot (58).png)
 
 # Developer Guide
 
