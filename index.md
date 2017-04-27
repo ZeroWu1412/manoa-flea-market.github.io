@@ -219,13 +219,13 @@ Mockups for the following pages were implemented during M1:
 <img width="220px" height="140px" src="images/profile.png"/>
 <img width="220px" height="140px" src="images/EditProfile.png"/>
 
-Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
+Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
-![](images/Milestone1.png)
+![](images/Screenshot (44).png)
 
 Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
 
-![](images/Milestone1b.png)
+![](images/Screenshot (50).png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
@@ -235,20 +235,28 @@ Milestone 1 has been deployed through galaxy [Manoa Flea Market Demo](https://ma
 
 ## Milestone 2: Data Model Development
 
-Milestone 2 started on April 13, 2017 and is currently in progress.
+Milestone 2 started on April 13, 2017 and ended April 27, 2017.
 
 The goal of Milestone 2 is to start working on our applications functionality by implementing the data model.
 
 Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
-![](images/Milestone2a.png)
+![](images/Screenshot (45).png)
 
-Milestone 2 currently has 3 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
+Milestone 2 currently has 9 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
-![](images/milestone2.png)
+![](images/Screenshot (51).png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/Screenshot (48).png)
 
 ## Milestone 3
 
 Milestone 3 was implemented as [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
-Milestone 3 currently has - issues and progress will be managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
+![](images/Screenshot (46).png)
+
+Milestone 3 currently has 5 issues and progress will be managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
+
+![](images/Screenshot (49).png)
