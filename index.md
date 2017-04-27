@@ -224,15 +224,20 @@ Note that the user pages contain a menu fixed to the top of the page, and thus t
 
 For display and navigation among its four pages, the application uses [Flow Router](https://github.com/kadirahq/flow-router).
 
-Routing is defined in [imports/startup/client/router.js](https://github.com/ics-software-engineering/meteor-application-template/blob/master/app/imports/startup/client/router.js).
+Routing is defined in [imports/startup/client/router.js](https://github.com/manoa-flea-market/manoa-flea-market/blob/master/app/imports/startup/client/router.js).
 
-BowFolios defines the following routes:
+Manoa Flea Market defines the following routes:
 
-  * The `/` route goes to the public landing page.
-  * The `/directory` route goes to the public directory page.
-  * The `/<user>/profile` route goes to the profile page associated with `<user>`, which is the UH account name.
-  * The `/<user>/filter` route goes to the filter page associated with `<user>`, which is the UH account name.
-
+  * The `/` route goes to the home page.
+  * The `/profile-page` route goes to the public profile page.
+  * The `/edit-profile-page/:_id` route goes to edit the profile page.
+  * The `/add-profile-page` route goes to add the profile page.
+  * The `/market-page` route goes to the market page.
+  * The `/contact-page` route goes to the contact page.
+  * The `/listing-page` route goes to the listing page.
+  * The `/add-listing-page` route goes to the add listing page.
+  * The `/edit-listing-page` route goes to the edit listing page.
+  
 
 ## Authentication
 
