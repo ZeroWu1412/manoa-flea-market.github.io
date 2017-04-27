@@ -6,6 +6,7 @@
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
 
 # About Manoa Flea Market
 
@@ -138,3 +139,9 @@ Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://gi
 Milestone 2 currently has 3 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
 ![](images/milestone2.png)
+
+## Milestone 3
+
+Milestone 3 was implemented as [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
+
+Milestone 3 currently has - issues and progress will be managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
