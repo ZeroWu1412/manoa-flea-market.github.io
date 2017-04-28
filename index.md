@@ -30,6 +30,10 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 
 # User Guide
 
+You can check out the [Manoa Flea Market Demo here](https://manoa-flea-market.meteorapp.com)::
+
+(Note: It's not yet complete)
+
 When you first come to our site, you will be on our landing page:
 
 ![](images/Screenshot (52).png)
@@ -230,8 +234,6 @@ Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio 
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/Milestone1c.png)
-
-Milestone 1 has been deployed through galaxy [Manoa Flea Market Demo](https://manoa-flea-market.meteorapp.com)::
 
 ## Milestone 2: Data Model Development
 
