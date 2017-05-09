@@ -39,11 +39,11 @@ When you first come to the site, you will be greeted by the following landing pa
 
 ![](images/Landing.png)
 
-In order to use the system, you must be logged in. Once you click to log in, you will be redirected to a login page where you must login  with your UH username and password:
+In order to use the system, you must be logged in. Once you click to log in, you will be redirected to a login page where you must use your UH username and password:
 
 ![](images/Login.png)
 
-Once logged in, users will be directed to the User Home Page where they can navigate to different pages: 
+Once logged in, users will be directed to the Home Page where they can navigate to different pages: 
 
 ![](images/Homepage.png) 
 
