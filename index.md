@@ -37,7 +37,7 @@ A demo of the Manoa Flea Market can be viewed [here](https://manoa-flea-market.m
 
 When you first come to the site, you will be greeted by the following landing page:
 
-![](images/Landing.png)
+![](images/Landing2.png)
 
 In order to use the system, you must be logged in. Once you click to log in, you will be redirected to a login page where you must use your UH username and password:
 
@@ -75,7 +75,7 @@ All the profiles will be accessible through a profiles list:
 
 And can edit their profiles using this page: 
 
-![](images/EditProfile.png)
+![](images/EditProfile2.png)
 
 # Developer Guide
 
