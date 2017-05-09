@@ -254,7 +254,18 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Milestone 3 started on April 28, 2017 and ended May 9, 2017.
 
-The goal of Milestone 3 was to finish 
+The goal of Milestone 3 was to finish up the applications functionality as well as to tidy up the appearance of the application. 
+
+The following pages were changed during Milestone 3: 
+
+<img width="220px" height="140px" src="images/Landing2.png"/>
+<img width="220px" height="140px" src="images/Homepage.png"/>
+<img width="220px" height="140px" src="images/ItemList.png"/>
+<img width="220px" height="140px" src="images/AddItem.png"/>
+<img width="220px" height="140px" src="images/EditItem.png"/>
+<img width="220px" height="140px" src="images/Contacts.png"/>
+<img width="220px" height="140px" src="images/AddProfile.png"/>
+<img width="220px" height="140px" src="images/EditProfile2.png"/>
 
 Milestone 3 was implemented as [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
