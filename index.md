@@ -18,6 +18,7 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
+* [Initial User Study](#initial-user-study)
 
 # About Manoa Flea Market
 
@@ -26,37 +27,32 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 - Have students login with their UH credentials to access the system
 - Connect buyers and sellers through UH credentials
 - Items and services offered on this site will be geared specifically towards UHM students
-- Users who violate the terms of use can be locked out of the system through their UH credentials
 
 # User Guide
 
-You can check out the [Manoa Flea Market Demo here](https://manoa-flea-market.meteorapp.com)::
+A demo of the Manoa Flea Market can be viewed [here](https://manoa-flea-market.meteorapp.com)::
 
 (Note: It's not yet complete)
 
-When you first come to our site, you will be on our landing page:
+When you first come to the site, you will be greeted by the following landing page:
 
-![](images/Screenshot (52).png)
+![](images/Landing.png)
 
-In order to use the system, you must be logged in. Once you click to log in, you will be directed to login with your UH username and password:
+In order to use the system, you must be logged in. Once you click to log in, you will be redirected to a login page where you must login  with your UH username and password:
 
-![](images/LoginPage2.png)
+![](images/Login.png)
 
 Once logged in, users will be directed to the User Home Page: 
 
-![](images/UserHomePage.png) 
+![](images/Homepage.png) 
 
 Users will also be able to navigate through the top menu:
 
 ![](images/TopMenu.png)
 
-However, users who have admin privileges will be directed to the Admin Home Page:
-
-![](images/AdminHomePage.png) 
-
 From either Home Page, you can list an item to sell, making sure you give a description and a photo:
 
-![](images/AddListing.png)
+![](images/AddItem.png)
 
 If need be, you may also choose to edit your listing: 
 
@@ -64,21 +60,15 @@ If need be, you may also choose to edit your listing:
 
 All the items for sale from the users will then be available on a communal sell page:
 
-![](images/market.png)
+![](images/Market.png)
 
-Users will also have profiles that can be viewed by other users that will list all items that the user is currently selling:
+Users can create a profile through the use of this page: 
 
-![](images/profile.png)
-
-These profiles can be created or edited through the use of these pages: 
-
-![](images/Screenshot (60).png)
-
-![](images/Screenshot (59).png)
+![](images/AddProfile.png)
 
 All the profiles will be accessible through a profiles list: 
 
-![](images/Screenshot (58).png)
+![](images/ProfileList.png)
 
 # Developer Guide
 
@@ -203,7 +193,7 @@ The development process for the Manoa Flea market follows the ideas given in [Is
 
 The following sections document the development history of the Manoa Flea Market.
 
-## Milestone 1: Mockup Development
+## Milestone 1: Mockup Development and Authentication
 
 Milestone 1 started on April 4, 2017 and completed April 12, 2017. 
 
@@ -239,7 +229,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Milestone 2 started on April 13, 2017 and ended April 27, 2017.
 
-The goal of Milestone 2 is to start working on our applications functionality by implementing the data model.
+The goal of Milestone 2 is to start working on the application's functionality by implementing the data model. 
 
 Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
@@ -262,3 +252,33 @@ Milestone 3 was implemented as [Manoa Flea Market Github Milestone 3](https://gi
 Milestone 3 currently has 5 issues and progress will be managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
 ![](images/Screenshot (49).png)
+
+# Initial User Study
+
+> The interface is simple to use and not overwhelming on the user, some of the tabs are cyclical and open the same page in different ways. Probably should give the individual users the ability to delete their own profile or when an admin is selected to allow them to do so. Wasn't able to try out buying or posting items (as it was not functioning atht time), but the setup to do so seems easy to use, especially having a picture of the item. Having a filter in the search is ok, but maybe adding a user search bar and/or adding more filter tabs would be good in the future.
+> 
+> -- <cite>UH Junior, Japanese</cite>
+
+> In terms of functionality, everything that worked did what it was supposed to do. The format was pleasant to work with, everything was self explanatory and relatively easy to navigate through. Naming conventions were also good, one typo but even professional and complete websites are bount to have mistakes.
+> 
+> -- <cite>UH Junior, ICS</cite>
+
+> Landing page need to have a direct link to login where it says log in instead of the login button on the top left. It's good to have it there, but if the center piece of the landing page says to login using your UH username, some users may think that it's a link that would be able to take them directly there as their focus is towards the center of the page. 
+> 
+> Some features aren't working or clicks that don't lead to refreshing the page or to the new page. Listing items does not work at the moment. Minor spelling errors, such as Instruaments (should be Instruments). Filter works. 
+> 
+> Word wrap / text boxes that does not wrap the name text properly in the Contacts page. there does not seem to be a character limit or a way that prevents or cuts any extra long entries. Filling out the profile of the contacts page should have additional requirements such as email should be a valid email and the telephone number should be a valid number. 
+> 
+> Login/Logout should be visible for certain scenarios. Such as if people need to login or signup, then the text should only say that. If people need to logout, then it should say logout. Alos, there shouldn't be a dropdown menu for login on the landing page unless there are other things to it. It should serve its function just by clicking on it. The same to the Login/Logout for after you log in. 
+> 
+> -- <cite>UH Junior, ICS</cite>
+
+> Overall, the cite is very easy to use and understand. The login button was not so easy to spot since it was in the corner of the page and the text was really small for us to log in compared to the rest of the page. It seems out of place to have a dropdown menu for a login button rather than just having a button though. 
+> 
+> The homepage gave us direct links to all the pages a user needs to see right away so I didn't hTheave to go searching though the menus for the page I'm looking for when I first log in, although the menu wasn't too hard to navigate anyway since there are a limited amount of links. 
+> 
+> The contact list isn't so secure since it seems that anyone can edit anybody's profile information, so they can easily change someone's phone number to their own or to a fake one. However, the add profile button works 
+> 
+> The market page seemed incomplete since the listing isn't added to the market page, however, there is a filter on the top, which could make it easier for users to search for what they want. It would probably be better if users could insert a key word to search rather than just looking at all the items under a specified category or to input more filter options. 
+> 
+> -- <cite>UH Junior, Electrical Engineering</cite>
