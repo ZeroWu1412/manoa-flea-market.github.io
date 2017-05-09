@@ -208,7 +208,7 @@ The goal of Milestone 1 is to combine all of the groups idea developed during ou
 
 Mockups for the following pages were implemented during M1:
 
-<img width="220px" height="140px" src="images/landing.png"/>
+<img width="220px" height="140px" src="images/Landing.png"/>
 <img width="220px" height="140px" src="images/LoginPage.png"/>
 <img width="220px" height="140px" src="images/LoginPage2.png"/>
 <img width="220px" height="140px" src="images/UserHomePage.png"/>
