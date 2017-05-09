@@ -320,3 +320,13 @@ Listed below is the full response from each reviewer. We did not list the review
 > The market page seemed incomplete since the listing isn't added to the market page, however, there is a filter on the top, which could make it easier for users to search for what they want. It would probably be better if users could insert a key word to search rather than just looking at all the items under a specified category or to input more filter options. 
 > 
 > -- <cite>UH Junior, Electrical Engineering</cite>
+
+> The contact list was very neat and organized. I do wish there was a way to delete your profile, and maybe an option to put phone number OR email. (Personally, I wouldn't want random strangers knowing my phone number.)
+> 
+> Using the UH colors fit in very well with the logo, and made the whole website seem more put together. The font matched well with the concept of the site being buying and selling.
+> 
+> Minor details, but I wished the images in the logged out page were all circles. Also, sticking to all clip art images or all real images would be more consistent.
+> 
+> Overall, I think the site would be very useful for students who aren't satisfied with the price offered to buy back the item at the UH Bookstore. Or really anyone who wants to make a quick buck.
+> 
+> -- <cite>Junior</cite>
