@@ -63,7 +63,7 @@ If need be, you may also choose to edit your listing:
 
 All the items for sale from the users will then be available on a communal sell page:
 
-![](images/Market.png)
+![](images/ItemList.png)
 
 Users can create a profile through the use of this page: 
 
