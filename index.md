@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About Manoa Flea Market](#about-manoa-flea-market)
-* [User Guide](#user-guide)
+* [Guided Tour](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -29,7 +29,7 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 - Connect buyers and sellers through UH credentials
 - Items and services offered on this site will be geared specifically towards UHM students
 
-# User Guide
+# Guided Tour
 
 A demo of the Manoa Flea Market can be viewed [here](https://manoa-flea-market.meteorapp.com)::
 
@@ -270,7 +270,17 @@ Each issue was implemented in its own branch, and merged ito master when complet
 
 # Initial User Study
 
+At the end of milestone 3, our group we recruited a few of our friends, classmates, and roommates to look at our application and give us feedback on their inital impression, what is missing functionality-wise, and the overall ease of using the application. 
+
+All five of our student reviewers were juniors, although their majors varied, although we got two of our reviewers to be ICS majors. By having these reviewers with different majors and backgrounds, we were able to get several different point of views on how to make our application better. 
+
+Each student reviewer was given a brief description of the purpose of the application, however, we decided not to give the reviewers instructions on how to use the application in order to allow us to determine the applications ability to be user-friendly and to let the reviewers fully experience the application without us guiding them. 
+
+One of the biggest concerns we got back from the student reviewers was the lack of having the website completely finished. For example, the biggest issue we had was that our items were not listed in our Market page. However, due to the short nature of the class, we believe that if we continue working on this site, we could have a fully functional application that can appeal to the UH community. 
+
 ## Student Feedback
+
+Listed below is the full response from each reviewer. We did not list the reviewers name, however, we have listed their major to see how their background affected how they saw the application. 
 
 > The interface is simple to use and not overwhelming on the user, some of the tabs are cyclical and open the same page in different ways. Probably should give the individual users the ability to delete their own profile or when an admin is selected to allow them to do so. Wasn't able to try out buying or posting items (as it was not functioning atht time), but the setup to do so seems easy to use, especially having a picture of the item. Having a filter in the search is ok, but maybe adding a user search bar and/or adding more filter tabs would be good in the future.
 > 
