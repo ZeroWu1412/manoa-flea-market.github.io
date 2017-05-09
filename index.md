@@ -240,7 +240,7 @@ The goal of Milestone 2 is to start working on the application's functionality b
 
 Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
-![](images/Milestone2.png)
+![](images/M2.png)
 
 Milestone 2 consisted of 9 issues and progress was managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
