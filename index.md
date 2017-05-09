@@ -19,6 +19,7 @@
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
 * [Initial User Study](#initial-user-study)
+  * [Student Feedbacks](#student-feedback)
 
 # About Manoa Flea Market
 
@@ -42,21 +43,23 @@ In order to use the system, you must be logged in. Once you click to log in, you
 
 ![](images/Login.png)
 
-Once logged in, users will be directed to the User Home Page: 
+Once logged in, users will be directed to the User Home Page where they can navigate to different pages: 
 
 ![](images/Homepage.png) 
 
 Users will also be able to navigate through the top menu:
 
-![](images/TopMenu.png)
+![](images/TopMenu1.png)
 
-From either Home Page, you can list an item to sell, making sure you give a description and a photo:
+![](images/TopMenu2.png)
+
+Users can list an item to sell, where the name and price is required while the picture, category, and description is optional:
 
 ![](images/AddItem.png)
 
 If need be, you may also choose to edit your listing: 
 
-![](images/EditListing.png)
+![](images/EditItem.png)
 
 All the items for sale from the users will then be available on a communal sell page:
 
@@ -68,7 +71,11 @@ Users can create a profile through the use of this page:
 
 All the profiles will be accessible through a profiles list: 
 
-![](images/ProfileList.png)
+![](images/Contacts.png)
+
+And can edit their profiles using this page: 
+
+![](images/EditProfile.png)
 
 # Developer Guide
 
@@ -254,6 +261,8 @@ Milestone 3 currently has 5 issues and progress will be managed through [Manoa F
 ![](images/Screenshot (49).png)
 
 # Initial User Study
+
+## Student Feedback
 
 > The interface is simple to use and not overwhelming on the user, some of the tabs are cyclical and open the same page in different ways. Probably should give the individual users the ability to delete their own profile or when an admin is selected to allow them to do so. Wasn't able to try out buying or posting items (as it was not functioning atht time), but the setup to do so seems easy to use, especially having a picture of the item. Having a filter in the search is ok, but maybe adding a user search bar and/or adding more filter tabs would be good in the future.
 > 
