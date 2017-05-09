@@ -222,15 +222,15 @@ Mockups for the following pages were implemented during M1:
 
 Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
 
-![](images/Screenshot (44).png)
+![](images/Milestone1.png)
 
 Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
 
-![](images/Screenshot (50).png)
+![](images/Project1.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![](images/Milestone1c.png)
+![](images/Network1.png)
 
 ## Milestone 2: Data Model Development
 
@@ -240,25 +240,33 @@ The goal of Milestone 2 is to start working on the application's functionality b
 
 Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
-![](images/Screenshot (45).png)
+![](images/Milestone2.png)
 
-Milestone 2 currently has 9 issues and progress will be managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
+Milestone 2 consisted of 9 issues and progress was managed through [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2)::
 
-![](images/Screenshot (51).png)
+![](images/Project2.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![](images/Screenshot (48).png)
+![](images/Network2.png)
 
 ## Milestone 3
 
+Milestone 3 started on April 28, 2017 and ended May 9, 2017.
+
+The goal of Milestone 3 was to finish 
+
 Milestone 3 was implemented as [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
-![](images/Screenshot (46).png)
+![](images/Milestone3.png)
 
-Milestone 3 currently has 5 issues and progress will be managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
+Milestone 3 consisted of 8 issues and progress was managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
-![](images/Screenshot (49).png)
+![](images/Project3.png)
+
+Each issue was implemented in its own branch, and merged ito master when completed: 
+
+![](images/Network3.png)
 
 # Initial User Study
 
