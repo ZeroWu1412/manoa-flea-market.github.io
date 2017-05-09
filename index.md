@@ -33,8 +33,6 @@ The Manoa Flea Market is a Meteor application that will offer UHM students a cha
 
 A demo of the Manoa Flea Market can be viewed [here](https://manoa-flea-market.meteorapp.com)::
 
-(Note: It's not yet complete)
-
 When you first come to the site, you will be greeted by the following landing page:
 
 ![](images/Landing2.png)
@@ -145,7 +143,7 @@ This system adopts the following naming conventions:
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
 
-The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory).
+The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/manoa-flea-market/manoa-flea-market/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory).
 
 ## Routing
 
@@ -156,7 +154,6 @@ Routing is defined in [imports/startup/client/router.js](https://github.com/mano
 Manoa Flea Market defines the following routes:
 
   * The `/` route goes to the home page.
-  * The `/profile-page` route goes to the public profile page.
   * The `/edit-profile-page/:_id` route goes to edit the profile page.
   * The `/add-profile-page` route goes to add the profile page.
   * The `/market-page` route goes to the market page.
@@ -165,7 +162,6 @@ Manoa Flea Market defines the following routes:
   * The `/add-listing-page` route goes to the add listing page.
   * The `/edit-listing-page` route goes to the edit listing page.
   
-
 ## Authentication
 
 For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
@@ -283,11 +279,11 @@ Each issue was implemented in its own branch, and merged ito master when complet
 
 At the end of milestone 3, our group we recruited a few of our friends, classmates, and roommates to look at our application and give us feedback on their inital impression, what is missing functionality-wise, and the overall ease of using the application. 
 
-All five of our student reviewers were juniors, although their majors varied, although we got two of our reviewers to be ICS majors. By having these reviewers with different majors and backgrounds, we were able to get several different point of views on how to make our application better. 
+Four out of five of our student reviewers were juniors with one sophomore. Although their majors varied, we got three of our reviewers to be ICS majors. By having these reviewers with different majors and backgrounds, we were able to get several different point of views on how to make our application better. 
 
 Each student reviewer was given a brief description of the purpose of the application, however, we decided not to give the reviewers instructions on how to use the application in order to allow us to determine the applications ability to be user-friendly and to let the reviewers fully experience the application without us guiding them. 
 
-One of the biggest concerns we got back from the student reviewers was the lack of having the website completely finished. For example, the biggest issue we had was that our items were not listed in our Market page. However, due to the short nature of the class, we believe that if we continue working on this site, we could have a fully functional application that can appeal to the UH community. 
+One of the biggest concerns we got back from the student reviewers was the lack of having the website completely finished. For example, the biggest issue we had was that our items were not listed in our Market page. However, due to the short nature of the class, we believe that if we continue working on this site, we could have a fully functional application that can appeal to the UH community. We also made some small changes to the application like allowing the users to delete a contact in the contact list.
 
 ## Student Feedback
 
@@ -329,4 +325,4 @@ Listed below is the full response from each reviewer. We did not list the review
 > 
 > Overall, I think the site would be very useful for students who aren't satisfied with the price offered to buy back the item at the UH Bookstore. Or really anyone who wants to make a quick buck.
 > 
-> -- <cite>Junior</cite>
+> -- <cite>UH Sophomore, ICS</cite>
