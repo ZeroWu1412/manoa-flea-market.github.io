@@ -265,15 +265,15 @@ The following pages were changed during Milestone 3:
 
 Milestone 3 was implemented as [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
-![](images/Milestone3.png)
+![](images/M3Pt1.png)
 
 Milestone 3 consisted of 8 issues and progress was managed through [Manoa Flea Market Github Milestone 3](https://github.com/manoa-flea-market/manoa-flea-market/milestone/3)::
 
-![](images/Project3.png)
+![](images/M3Pt2.png)
 
 Each issue was implemented in its own branch, and merged ito master when completed: 
 
-![](images/Network3.png)
+![](images/M3Pt3.png)
 
 # Initial User Study
 
